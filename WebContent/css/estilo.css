@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body
+{
+	background-color:white;
+	font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.bloque1
+{
+	margin-bottom: 80px;
+	margin-left:300px;
+	margin-right:80px;
+	float: left;
+	width: 200px;
+	height: 200px;
+	padding-top: 200px;
+	
+
+}
+.bloque2
+{
+	margin-bottom: 80px;
+	margin-right:80px;
+	float: left;
+	background:#FF7F50;
+	padding:50px;
+	margin-left:300px;
+	width:450px;
+
+}
+
+.contenedor
+{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left:80px;
+	margin-right:80px;
+}
